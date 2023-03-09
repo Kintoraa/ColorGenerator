@@ -1,5 +1,4 @@
 body {
-  background: rgb(var(--red), var(--green), var(--blue));
   display: flex;
   justify-content: center;
   align-items: center;
