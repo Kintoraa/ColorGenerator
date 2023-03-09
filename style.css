@@ -1,0 +1,15 @@
+body {
+  background: rgb(var(--red), var(--green), var(--blue));
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+h3 {
+  background: rgb(41, 39, 39);
+  color: white;
+  padding: 20px 60px;
+  border-radius: 10px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
